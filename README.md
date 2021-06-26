@@ -80,10 +80,11 @@ Job 1 (Grid):
 ![image](https://user-images.githubusercontent.com/46167355/123521247-e8aa1600-d6ce-11eb-810b-ec04f7f85bdb.png)
 
 Job 2 (gridjob2):
+
 ![image](https://user-images.githubusercontent.com/46167355/123521260-feb7d680-d6ce-11eb-886e-21741abf820b.png)
 
-How to use:
-In the last step we create a new to organize our work and Pipeline on Jenkins. 
+**How to use:**
+In the last step we create a new list to organize our work and Pipeline on Jenkins. 
 
 ![image](https://user-images.githubusercontent.com/46167355/123521300-3c1c6400-d6cf-11eb-9b2b-a607abdda1d2.png)
 
@@ -99,7 +100,7 @@ As we can see above a new container has been deployed on our EC2 instance.
 ![image](https://user-images.githubusercontent.com/46167355/123521512-7e927080-d6d0-11eb-9965-6fed6ade32b3.png)
 
 
-Notes: 
+**Notes:** 
 - Credentials are to be used as Enviorment Variables so they are not exposed. For example: IAM User Access key, Secret key.
 - Sample application Dockerfile code has been used. 
 
