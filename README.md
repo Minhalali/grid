@@ -96,6 +96,9 @@ All we need to do now is to build the job.
 
 As we can see above a new container has been deployed on our EC2 instance. 
 
+![image](https://user-images.githubusercontent.com/46167355/123521512-7e927080-d6d0-11eb-9965-6fed6ade32b3.png)
+
+
 Notes: 
 - Credentials are to be used as Enviorment Variables so they are not exposed. For example: IAM User Access key, Secret key.
 - Sample application Dockerfile code has been used. 
