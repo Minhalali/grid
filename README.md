@@ -24,7 +24,13 @@ Insall Terraform on the master server from where we will provision a linux insta
 
 ![image](https://user-images.githubusercontent.com/46167355/123520682-3de42880-d6cb-11eb-9958-29283f5651f1.png)
 
-Upon doing Terraform apply we will be able to see a new AWS EC2 instance in our dashboard:
+Upon doing:
+
+-> terraform init
+-> terraform plan
+-> terraform apply 
+
+We will be able to see a new AWS EC2 instance in our dashboard:
 
 ![image](https://user-images.githubusercontent.com/46167355/123520737-8bf92c00-d6cb-11eb-9e61-85667351b15f.png)
 
