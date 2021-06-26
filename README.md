@@ -62,7 +62,12 @@ Next we will verify from the browser that nginx is running.
 ![image](https://user-images.githubusercontent.com/46167355/123520984-332a9300-d6cd-11eb-9c1a-a62001858c89.png)
 
 **CI/CD Automation:**
-Next we have to create CI/CD Pipeline to build and deploy the container in our EC2 instance using Jenkins. We will create two jobs inside our pipeline, One will be use to build the container and the code and second to deploy the container. We will first install Jenkins on our server. I have already done that using apt. Next jenkins will run by default on the port 8080.
+Next we have to create CI/CD Pipeline to build and deploy the container in our EC2 instance using Jenkins. We will create two jobs inside our pipeline, One will be use to build the container and the code and second to deploy the container. We will first install Jenkins on our server. I have already done that using apt. 
+
+![image](https://user-images.githubusercontent.com/46167355/123521489-5c005780-d6d0-11eb-92db-dd271995871d.png)
+
+
+Next jenkins will run by default on the port 8080.
 
 -> http://18.117.168.64:8080
 
