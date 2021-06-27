@@ -20,7 +20,7 @@ This automation builds and deploy a container on a EC2 Instance using CI/CD pipe
 
 **Installation:**
 We first have to create an automation using Terraform to provision one Linux VM in AWS which will capable to run docker containers.
-Insall Terraform on the master server from where we will provision a linux instance on AWS. Once done we need to configure the main.tf file. 
+Install Terraform on the master server from where we will provision a linux instance on AWS. Once done we need to configure the main.tf file. 
 
 ![image](https://user-images.githubusercontent.com/46167355/123520682-3de42880-d6cb-11eb-9958-29283f5651f1.png)
 
