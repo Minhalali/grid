@@ -1,11 +1,3 @@
-# Grid task
-
-**Project Title:**
-Grid Singularity Tasks
-
-**Motivation:**
-To complete the Tasks for the position of Junior DevOps Engineer at Grid Singluarity
-
 **Build Status:**
 Finished: SUCCESS
 
